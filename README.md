@@ -19,3 +19,7 @@ Darkness). The player must quest through the level and collect diamonds to gain 
 new abilities in order to defeat the wizards that await them at the end of the level.
 
 To install and play the game, use the setup file.
+
+![Capture 2](https://user-images.githubusercontent.com/82205701/125203025-3492b880-e294-11eb-9bf8-f3cdf6c193ed.PNG)
+![Capture 3](https://user-images.githubusercontent.com/82205701/125203029-35c3e580-e294-11eb-82c8-90ddc64fbaee.PNG)
+![Capture](https://user-images.githubusercontent.com/82205701/125203032-36f51280-e294-11eb-9325-61bd43182764.PNG)
