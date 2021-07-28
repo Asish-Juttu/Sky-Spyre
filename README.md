@@ -1,5 +1,5 @@
 # Sky-Spyre
-Sky Spyre is an epic action adventure through the castle of a ruined kingdom! Explore Sky
+Sky Spyre (made in Unity) is an epic action adventure through the castle of a ruined kingdom! Explore Sky
 Spyre Castle and battle dangerous creatures and wizards in a classic, 2D pixel art style.
 
 You play as Hazel, the former queen of the ruined nation of Genovia. Three wizards used
